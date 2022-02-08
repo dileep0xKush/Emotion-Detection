@@ -27,9 +27,8 @@ Dataset Downloaded from : [link](https://www.kaggle.com/deadskull7/fer2013)
 
 Note : Make sure there is good lighting in the room to get better accuracy.
 
-Thats it ^_^
+ 
 
-**Demo**
-![sample1](sample1(1).gif)
+
 
 
